@@ -1,0 +1,2001 @@
+[
+    {
+        "id": 1,
+        "title": "Aloo Gobi 1",
+        "ingredients": [
+            "ginger",
+            "beans",
+            "capsicum",
+            "chicken",
+            "soy sauce",
+            "coriander",
+            "red chilli powder",
+            "rice",
+            "paneer",
+            "garlic"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Veg Fried Rice 2",
+        "ingredients": [
+            "onion",
+            "rice",
+            "mutton",
+            "paneer",
+            "carrot",
+            "coriander",
+            "garlic"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Aloo Gobi 3",
+        "ingredients": [
+            "onion",
+            "mustard seeds",
+            "oil",
+            "green peas",
+            "butter",
+            "salt",
+            "carrot",
+            "potato",
+            "paneer"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Chicken Tandoori 4",
+        "ingredients": [
+            "oil",
+            "carrot",
+            "red chilli powder",
+            "cumin",
+            "coriander",
+            "lemon"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Noodles 5",
+        "ingredients": [
+            "chicken",
+            "mustard seeds",
+            "cumin",
+            "coriander",
+            "lemon",
+            "potato"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Chicken Ramen 6",
+        "ingredients": [
+            "potato",
+            "coriander",
+            "rice",
+            "salt",
+            "noodles",
+            "turmeric",
+            "butter",
+            "beans",
+            "capsicum"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Veg Fried Rice 7",
+        "ingredients": [
+            "mustard seeds",
+            "lemon",
+            "garlic",
+            "butter",
+            "onion",
+            "salt"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Potato Sabzi 8",
+        "ingredients": [
+            "salt",
+            "paneer",
+            "red chilli powder",
+            "carrot",
+            "onion",
+            "butter",
+            "ginger",
+            "soy sauce",
+            "chilli"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Paneer Butter Masala 9",
+        "ingredients": [
+            "paneer",
+            "ginger",
+            "onion",
+            "tomato",
+            "chilli"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Tomato Soup 10",
+        "ingredients": [
+            "green peas",
+            "ginger",
+            "onion",
+            "oil",
+            "salt"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Mutton Curry 11",
+        "ingredients": [
+            "mutton",
+            "red chilli powder",
+            "chilli",
+            "butter",
+            "soy sauce",
+            "cumin"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Chicken Curry 12",
+        "ingredients": [
+            "garlic",
+            "carrot",
+            "rice",
+            "garam masala",
+            "oil"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Chicken Curry 13",
+        "ingredients": [
+            "beans",
+            "paneer",
+            "butter",
+            "onion",
+            "mutton",
+            "capsicum",
+            "lemon",
+            "soy sauce",
+            "chilli",
+            "green peas"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Noodles 14",
+        "ingredients": [
+            "chicken",
+            "paneer",
+            "ginger",
+            "noodles",
+            "butter"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Chilli Paneer 15",
+        "ingredients": [
+            "mustard seeds",
+            "rice",
+            "onion",
+            "carrot",
+            "garam masala"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Veg Fried Rice 16",
+        "ingredients": [
+            "garam masala",
+            "paneer",
+            "garlic",
+            "red chilli powder",
+            "oil",
+            "rice"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Aloo Gobi 17",
+        "ingredients": [
+            "oil",
+            "garam masala",
+            "garlic",
+            "coriander",
+            "beans",
+            "green peas"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Butter Chicken 18",
+        "ingredients": [
+            "salt",
+            "carrot",
+            "beans",
+            "tomato",
+            "capsicum",
+            "mustard seeds",
+            "noodles",
+            "chicken"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Mixed Veg Curry 19",
+        "ingredients": [
+            "turmeric",
+            "salt",
+            "tomato",
+            "noodles",
+            "capsicum",
+            "garam masala",
+            "red chilli powder",
+            "soy sauce"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Vegetable Pulao 20",
+        "ingredients": [
+            "oil",
+            "cumin",
+            "mutton",
+            "lemon",
+            "ginger",
+            "beans",
+            "garlic",
+            "potato"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Noodles 21",
+        "ingredients": [
+            "tomato",
+            "coriander",
+            "beans",
+            "ginger",
+            "cumin",
+            "garam masala",
+            "paneer",
+            "noodles"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Tomato Soup 22",
+        "ingredients": [
+            "turmeric",
+            "green peas",
+            "rice",
+            "butter",
+            "oil",
+            "garlic",
+            "ginger"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Mixed Veg Curry 23",
+        "ingredients": [
+            "chicken",
+            "ginger",
+            "salt",
+            "butter",
+            "soy sauce",
+            "carrot",
+            "chilli"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Veg Chowmin 24",
+        "ingredients": [
+            "oil",
+            "potato",
+            "noodles",
+            "paneer",
+            "mutton",
+            "carrot",
+            "red chilli powder",
+            "coriander",
+            "chilli",
+            "chicken"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Chicken Curry 25",
+        "ingredients": [
+            "mutton",
+            "onion",
+            "capsicum",
+            "chilli",
+            "chicken",
+            "carrot",
+            "oil"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Veg Chowmin 26",
+        "ingredients": [
+            "mustard seeds",
+            "carrot",
+            "ginger",
+            "rice",
+            "paneer",
+            "garlic",
+            "green peas",
+            "garam masala",
+            "potato"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Mutton Curry 27",
+        "ingredients": [
+            "noodles",
+            "garam masala",
+            "green peas",
+            "lemon",
+            "soy sauce",
+            "beans",
+            "onion"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Lemon Chicken 28",
+        "ingredients": [
+            "capsicum",
+            "cumin",
+            "green peas",
+            "tomato",
+            "onion"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Aloo Tamatar 29",
+        "ingredients": [
+            "ginger",
+            "rice",
+            "garam masala",
+            "carrot",
+            "beans",
+            "lemon",
+            "red chilli powder",
+            "butter",
+            "salt"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Chicken Tandoori 30",
+        "ingredients": [
+            "paneer",
+            "chilli",
+            "mutton",
+            "ginger",
+            "green peas",
+            "red chilli powder",
+            "salt",
+            "noodles"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Paneer Butter Masala 31",
+        "ingredients": [
+            "ginger",
+            "turmeric",
+            "noodles",
+            "salt",
+            "beans"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Mixed Veg Curry 32",
+        "ingredients": [
+            "cumin",
+            "beans",
+            "chicken",
+            "ginger",
+            "paneer",
+            "potato",
+            "butter",
+            "salt"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Mixed Veg Curry 33",
+        "ingredients": [
+            "chilli",
+            "ginger",
+            "cumin",
+            "green peas",
+            "oil",
+            "potato",
+            "rice",
+            "mustard seeds",
+            "noodles",
+            "carrot"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Lemon Chicken 34",
+        "ingredients": [
+            "red chilli powder",
+            "chilli",
+            "garlic",
+            "soy sauce",
+            "mustard seeds",
+            "mutton",
+            "turmeric",
+            "green peas",
+            "coriander",
+            "butter"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Chicken Biryani 35",
+        "ingredients": [
+            "coriander",
+            "oil",
+            "turmeric",
+            "chicken",
+            "beans",
+            "carrot",
+            "butter",
+            "red chilli powder",
+            "noodles"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Chicken Ramen 36",
+        "ingredients": [
+            "garlic",
+            "mustard seeds",
+            "capsicum",
+            "chilli",
+            "salt",
+            "soy sauce",
+            "chicken"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Potato Sabzi 37",
+        "ingredients": [
+            "rice",
+            "lemon",
+            "green peas",
+            "garlic",
+            "soy sauce",
+            "cumin",
+            "paneer",
+            "coriander",
+            "salt",
+            "tomato"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Potato Sabzi 38",
+        "ingredients": [
+            "chicken",
+            "potato",
+            "noodles",
+            "rice",
+            "onion"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Aloo Tamatar 39",
+        "ingredients": [
+            "beans",
+            "capsicum",
+            "salt",
+            "lemon",
+            "chicken",
+            "ginger",
+            "onion",
+            "chilli"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Mixed Veg Curry 40",
+        "ingredients": [
+            "carrot",
+            "cumin",
+            "ginger",
+            "capsicum",
+            "mustard seeds",
+            "potato"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Aloo Gobi 41",
+        "ingredients": [
+            "turmeric",
+            "potato",
+            "chicken",
+            "mustard seeds",
+            "salt",
+            "green peas"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Chop all vegetables.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Potato Paratha 42",
+        "ingredients": [
+            "potato",
+            "capsicum",
+            "mustard seeds",
+            "beans",
+            "oil",
+            "noodles"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Aloo Tamatar 43",
+        "ingredients": [
+            "onion",
+            "chicken",
+            "mutton",
+            "potato",
+            "ginger"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Mixed Veg Curry 44",
+        "ingredients": [
+            "red chilli powder",
+            "salt",
+            "mutton",
+            "paneer",
+            "rice",
+            "chicken"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Butter Chicken 45",
+        "ingredients": [
+            "ginger",
+            "coriander",
+            "mustard seeds",
+            "garam masala",
+            "turmeric",
+            "paneer",
+            "tomato",
+            "green peas",
+            "potato"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Vegetable Pulao 46",
+        "ingredients": [
+            "chilli",
+            "noodles",
+            "potato",
+            "mustard seeds",
+            "garlic",
+            "beans"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Mutton Biryani 47",
+        "ingredients": [
+            "onion",
+            "chicken",
+            "beans",
+            "soy sauce",
+            "paneer",
+            "mustard seeds",
+            "carrot",
+            "noodles",
+            "potato"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Tomato Soup 48",
+        "ingredients": [
+            "chicken",
+            "noodles",
+            "butter",
+            "soy sauce",
+            "garam masala",
+            "ginger",
+            "red chilli powder",
+            "lemon"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Vegetable Pulao 49",
+        "ingredients": [
+            "salt",
+            "chilli",
+            "ginger",
+            "coriander",
+            "carrot",
+            "paneer",
+            "chicken",
+            "soy sauce"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Chicken Ramen 50",
+        "ingredients": [
+            "turmeric",
+            "onion",
+            "oil",
+            "chilli",
+            "soy sauce",
+            "garam masala",
+            "carrot",
+            "lemon",
+            "butter",
+            "garlic"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Tomato Soup 51",
+        "ingredients": [
+            "turmeric",
+            "chilli",
+            "tomato",
+            "beans",
+            "lemon",
+            "oil"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Paneer Butter Masala 52",
+        "ingredients": [
+            "turmeric",
+            "noodles",
+            "paneer",
+            "onion",
+            "soy sauce",
+            "mutton",
+            "rice",
+            "green peas",
+            "garlic",
+            "carrot"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 53,
+        "title": "Chilli Paneer 53",
+        "ingredients": [
+            "red chilli powder",
+            "salt",
+            "chilli",
+            "chicken",
+            "cumin",
+            "rice"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Potato Paratha 54",
+        "ingredients": [
+            "chilli",
+            "butter",
+            "red chilli powder",
+            "mutton",
+            "onion",
+            "garam masala",
+            "turmeric"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Butter Chicken 55",
+        "ingredients": [
+            "carrot",
+            "green peas",
+            "onion",
+            "chicken",
+            "garlic",
+            "tomato",
+            "red chilli powder",
+            "cumin",
+            "lemon",
+            "garam masala"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Chicken Tandoori 56",
+        "ingredients": [
+            "soy sauce",
+            "rice",
+            "cumin",
+            "salt",
+            "chicken",
+            "carrot",
+            "paneer",
+            "tomato"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Mutton Biryani 57",
+        "ingredients": [
+            "mutton",
+            "garam masala",
+            "carrot",
+            "rice",
+            "chilli",
+            "onion",
+            "soy sauce"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Chicken Biryani 58",
+        "ingredients": [
+            "mustard seeds",
+            "noodles",
+            "chilli",
+            "ginger",
+            "carrot",
+            "garlic",
+            "tomato",
+            "capsicum"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Veg Fried Rice 59",
+        "ingredients": [
+            "onion",
+            "mutton",
+            "butter",
+            "garlic",
+            "cumin",
+            "turmeric",
+            "capsicum",
+            "oil",
+            "beans"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Tomato Soup 60",
+        "ingredients": [
+            "potato",
+            "garam masala",
+            "chilli",
+            "carrot",
+            "chicken",
+            "mustard seeds",
+            "salt",
+            "coriander",
+            "mutton"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Mutton Biryani 61",
+        "ingredients": [
+            "ginger",
+            "green peas",
+            "capsicum",
+            "tomato",
+            "mustard seeds",
+            "garam masala",
+            "mutton"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Mixed Veg Curry 62",
+        "ingredients": [
+            "rice",
+            "garlic",
+            "carrot",
+            "soy sauce",
+            "green peas",
+            "chilli",
+            "potato",
+            "beans",
+            "oil"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Lemon Chicken 63",
+        "ingredients": [
+            "garam masala",
+            "turmeric",
+            "capsicum",
+            "cumin",
+            "lemon",
+            "mustard seeds",
+            "green peas",
+            "beans"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Potato Paratha 64",
+        "ingredients": [
+            "onion",
+            "butter",
+            "red chilli powder",
+            "mustard seeds",
+            "ginger",
+            "chilli"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Potato Paratha 65",
+        "ingredients": [
+            "onion",
+            "coriander",
+            "tomato",
+            "garlic",
+            "potato",
+            "rice",
+            "oil"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Lemon Chicken 66",
+        "ingredients": [
+            "garlic",
+            "beans",
+            "cumin",
+            "noodles",
+            "turmeric",
+            "onion",
+            "coriander",
+            "soy sauce",
+            "rice"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Chicken Ramen 67",
+        "ingredients": [
+            "noodles",
+            "butter",
+            "chicken",
+            "soy sauce",
+            "chilli",
+            "oil",
+            "mutton",
+            "rice",
+            "beans",
+            "lemon"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Tomato Soup 68",
+        "ingredients": [
+            "tomato",
+            "turmeric",
+            "red chilli powder",
+            "paneer",
+            "cumin"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Butter Chicken 69",
+        "ingredients": [
+            "soy sauce",
+            "chicken",
+            "garlic",
+            "onion",
+            "capsicum",
+            "mutton",
+            "rice",
+            "turmeric"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Chilli Paneer 70",
+        "ingredients": [
+            "salt",
+            "noodles",
+            "cumin",
+            "chicken",
+            "rice",
+            "butter"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Chicken Biryani 71",
+        "ingredients": [
+            "butter",
+            "green peas",
+            "lemon",
+            "rice",
+            "onion",
+            "ginger",
+            "paneer",
+            "salt",
+            "carrot"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Mutton Curry 72",
+        "ingredients": [
+            "noodles",
+            "chicken",
+            "salt",
+            "rice",
+            "red chilli powder",
+            "paneer",
+            "green peas",
+            "butter",
+            "cumin"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Aloo Tamatar 73",
+        "ingredients": [
+            "salt",
+            "green peas",
+            "lemon",
+            "potato",
+            "ginger",
+            "onion",
+            "chicken",
+            "rice"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Aloo Gobi 74",
+        "ingredients": [
+            "onion",
+            "mutton",
+            "lemon",
+            "carrot",
+            "mustard seeds",
+            "cumin",
+            "rice",
+            "garam masala",
+            "turmeric"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Aloo Gobi 75",
+        "ingredients": [
+            "potato",
+            "tomato",
+            "garam masala",
+            "capsicum",
+            "rice",
+            "mustard seeds",
+            "paneer",
+            "onion",
+            "beans"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Lemon Chicken 76",
+        "ingredients": [
+            "oil",
+            "green peas",
+            "onion",
+            "lemon",
+            "cumin",
+            "capsicum",
+            "coriander",
+            "salt"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Potato Sabzi 77",
+        "ingredients": [
+            "turmeric",
+            "oil",
+            "mutton",
+            "noodles",
+            "carrot",
+            "tomato",
+            "chilli"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Tomato Soup 78",
+        "ingredients": [
+            "soy sauce",
+            "red chilli powder",
+            "paneer",
+            "ginger",
+            "turmeric",
+            "cumin",
+            "lemon",
+            "salt",
+            "garlic",
+            "mustard seeds"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes."
+        ]
+    },
+    {
+        "id": 79,
+        "title": "Chicken Biryani 79",
+        "ingredients": [
+            "carrot",
+            "tomato",
+            "paneer",
+            "garam masala",
+            "garlic",
+            "mutton"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Chilli Paneer 80",
+        "ingredients": [
+            "mustard seeds",
+            "cumin",
+            "chilli",
+            "soy sauce",
+            "beans",
+            "ginger"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Aloo Gobi 81",
+        "ingredients": [
+            "coriander",
+            "soy sauce",
+            "red chilli powder",
+            "potato",
+            "capsicum",
+            "beans",
+            "butter",
+            "salt",
+            "oil",
+            "chilli"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Paneer Butter Masala 82",
+        "ingredients": [
+            "ginger",
+            "turmeric",
+            "cumin",
+            "onion",
+            "noodles",
+            "beans",
+            "garlic"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Mutton Biryani 83",
+        "ingredients": [
+            "cumin",
+            "butter",
+            "ginger",
+            "potato",
+            "green peas"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot."
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Mutton Curry 84",
+        "ingredients": [
+            "chicken",
+            "carrot",
+            "capsicum",
+            "tomato",
+            "garlic",
+            "chilli",
+            "oil",
+            "salt",
+            "onion"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Mixed Veg Curry 85",
+        "ingredients": [
+            "coriander",
+            "carrot",
+            "chilli",
+            "tomato",
+            "soy sauce",
+            "garlic",
+            "rice"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Cook on medium heat for 15 minutes.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Paneer Butter Masala 86",
+        "ingredients": [
+            "oil",
+            "green peas",
+            "butter",
+            "paneer",
+            "noodles",
+            "salt",
+            "rice",
+            "garam masala",
+            "carrot"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Chicken Ramen 87",
+        "ingredients": [
+            "carrot",
+            "beans",
+            "green peas",
+            "chilli",
+            "tomato",
+            "onion",
+            "red chilli powder",
+            "mutton",
+            "capsicum",
+            "rice"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Aloo Tamatar 88",
+        "ingredients": [
+            "mutton",
+            "chilli",
+            "garlic",
+            "butter",
+            "tomato",
+            "garam masala"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Veg Chowmin 89",
+        "ingredients": [
+            "beans",
+            "garlic",
+            "mutton",
+            "onion",
+            "garam masala",
+            "cumin",
+            "chilli",
+            "paneer",
+            "butter"
+        ],
+        "steps": [
+            "Chop all vegetables.",
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Mixed Veg Curry 90",
+        "ingredients": [
+            "mustard seeds",
+            "red chilli powder",
+            "noodles",
+            "butter",
+            "tomato",
+            "soy sauce",
+            "rice",
+            "garam masala",
+            "chicken",
+            "potato"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Chicken Tandoori 91",
+        "ingredients": [
+            "butter",
+            "green peas",
+            "chilli",
+            "cumin",
+            "noodles",
+            "onion"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Mutton Curry 92",
+        "ingredients": [
+            "butter",
+            "potato",
+            "paneer",
+            "turmeric",
+            "chicken",
+            "oil",
+            "tomato"
+        ],
+        "steps": [
+            "Garnish with coriander and serve hot.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Mutton Curry 93",
+        "ingredients": [
+            "ginger",
+            "paneer",
+            "lemon",
+            "onion",
+            "mutton"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables.",
+            "Heat oil in a pan."
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Potato Sabzi 94",
+        "ingredients": [
+            "turmeric",
+            "salt",
+            "ginger",
+            "green peas",
+            "oil",
+            "paneer",
+            "lemon",
+            "capsicum",
+            "red chilli powder",
+            "garam masala"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Chop all vegetables.",
+            "Heat oil in a pan.",
+            "Cook on medium heat for 15 minutes.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 95,
+        "title": "Veg Fried Rice 95",
+        "ingredients": [
+            "oil",
+            "mustard seeds",
+            "onion",
+            "cumin",
+            "paneer",
+            "mutton",
+            "tomato",
+            "soy sauce",
+            "green peas"
+        ],
+        "steps": [
+            "Heat oil in a pan.",
+            "Add the remaining ingredients.",
+            "Chop all vegetables."
+        ]
+    },
+    {
+        "id": 96,
+        "title": "Chilli Paneer 96",
+        "ingredients": [
+            "mutton",
+            "lemon",
+            "oil",
+            "butter",
+            "tomato",
+            "soy sauce",
+            "chicken"
+        ],
+        "steps": [
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 97,
+        "title": "Aloo Gobi 97",
+        "ingredients": [
+            "garlic",
+            "noodles",
+            "lemon",
+            "chilli",
+            "butter",
+            "chicken"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 98,
+        "title": "Potato Paratha 98",
+        "ingredients": [
+            "cumin",
+            "tomato",
+            "onion",
+            "butter",
+            "carrot",
+            "chicken",
+            "lemon",
+            "turmeric",
+            "chilli"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Heat oil in a pan.",
+            "Chop all vegetables.",
+            "Add chopped onions and saut\u00e9 until golden brown.",
+            "Garnish with coriander and serve hot.",
+            "Add the remaining ingredients."
+        ]
+    },
+    {
+        "id": 99,
+        "title": "Chicken Ramen 99",
+        "ingredients": [
+            "lemon",
+            "butter",
+            "cumin",
+            "potato",
+            "chicken",
+            "turmeric",
+            "noodles"
+        ],
+        "steps": [
+            "Cook on medium heat for 15 minutes.",
+            "Chop all vegetables.",
+            "Add the remaining ingredients.",
+            "Add chopped onions and saut\u00e9 until golden brown."
+        ]
+    },
+    {
+        "id": 100,
+        "title": "Butter Chicken 100",
+        "ingredients": [
+            "coriander",
+            "paneer",
+            "beans",
+            "garlic",
+            "tomato",
+            "chilli",
+            "garam masala",
+            "butter"
+        ],
+        "steps": [
+            "Add the remaining ingredients.",
+            "Heat oil in a pan.",
+            "Chop all vegetables."
+        ]
+    }
+]
